@@ -52,16 +52,3 @@ python manage.py runserver
 Once the server is running, you can access the API documentation at:
 - Swagger UI: `http://127.0.0.1:8000/swagger/`
 - ReDoc: `http://127.0.0.1:8000/redoc/`
-
-## How to push to GitHub
-
-To push this repository to your own GitHub account:
-
-1. Go to GitHub and create a new empty repository (do not initialize it with a README, .gitignore, or license).
-2. Open your terminal in the project directory.
-3. Run the following commands:
-```bash
-git remote add origin https://github.com/your-username/your-repo-name.git
-git branch -M main
-git push -u origin main
-```

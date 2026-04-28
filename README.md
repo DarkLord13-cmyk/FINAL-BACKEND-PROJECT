@@ -3,7 +3,7 @@
 A complete Django REST Framework application for managing tasks and projects, complete with Swagger UI documentation and custom data visualization endpoints.
 
 ## Features
-- **Projects**: Create, Read, Update, Delete projects.
+- **Projects**: CRUD-(Create, Read, Update, Delete) projects.
 - **Tasks**: Create, Read, Update, Delete tasks.
 - **Data Visualization API**: Endpoint to fetch task counts grouped by status.
 - **API Documentation**: Built-in Swagger UI and ReDoc using `drf-yasg`.
